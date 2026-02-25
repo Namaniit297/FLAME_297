@@ -1,4 +1,4 @@
-# FLAME_297 FLAME / DynKV prototype — README
+# FLAME_297 FLAME / DynKV prototype
 
 Overview:
 - This repo provides:
